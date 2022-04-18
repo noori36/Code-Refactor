@@ -40,4 +40,4 @@ The deployed website linked above was deployed using GitHub Pages.
 
 ## Usage
 Once deployed the application can be viewed in a traditional desktop web browser. It it not yet optimized for smaller screens.
-![Alt text](/assets/images/Horiseon Digital Marketing.png?raw=true "Optional Title")
+![Alt text](https://github.com/noori36/Code-Refactor/blob/main/assets/images/Horiseon%20Digital%20Marketing.png?raw=true "Optional Title")
