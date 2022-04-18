@@ -1,0 +1,233 @@
+/* asterisk (*) universal selector to select all the elements in the html page. */
+* {
+    box-sizing: border-box;
+    padding: 0;
+    margin: 0;
+}
+
+/* The background-color property specifies the background color of body element in the html. */
+body {
+    background-color: #d9dcd6;
+}
+
+/* padding property specify the pixel/size to create space around content, inside of the header class in html.
+font-family property specify font style for the content, inside the header class in html.
+background-color property specify the color to add background effects,  inside the header class in html.
+color property specify the color of the content, inside the header class in html. */
+.header {
+    padding: 20px;
+    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+    background-color: #2a607c;
+    color: #ffffff;
+}
+
+/* display: inline-block property allows to set a width and height on the h1 element inside the header class.
+inline-block does not add a line-break after the h1 element, so the element can sit next to other elements.
+font-size property sets the size of text for h1 tag, inside the header class */
+.header h1 {
+    display: inline-block;
+    font-size: 48px;
+}
+
+/* color property specify the text color of the seo class for h1 element, inside the header class in html. */
+.header h1 .seo {
+    color: #d9dcd6;
+}
+
+/* padding-top specify the padding for top side of nav element, inside the header class. 
+margin-right property specify the size of the right margin for creating space around the nav element, inside header class.
+*/
+.header nav {
+    padding-top: 15px;
+    margin-right: 20px;
+    float: right;
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+    font-size: 20px;
+}
+
+/* display property specifies displays <a> of nav element as an inline element (like <span>). Any height and width properties will have no effect*/
+.header nav a {
+    display: inline-block;
+    margin-left: 25px;
+    color: #ffffff;
+    text-decoration: none;
+}
+
+/* specifies the font size for paragraphs <p> */
+p {
+    font-size: 16px;
+}
+
+/* specifieces the properties for hero class. */
+.hero {
+    height: 800px;
+    width: 100%;
+    margin-bottom: 25px;
+    background-image: url("../images/digital-marketing-meeting.jpg");
+    background-size: cover;
+    background-position: center;
+}
+
+/* Float property specifies element <img> floats to the left of its container */
+.float-left {
+    float: left;
+    margin-right: 25px;
+}
+
+/* Specifies element <img> floats to the right of its container  */
+.float-right {
+    float: right;
+    margin-left: 25px;
+}
+
+/* Specifies the width, space and display of the content class as an inline element. */
+.content {
+    width: 75%;
+    display: inline-block;
+    margin-left: 20px;
+}
+
+/* Specifies the properties for search-engine-optimization class. */
+.search-engine-optimization {
+    margin-bottom: 20px;
+    padding: 50px;
+    height: 300px;
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+    background-color: #0072bb;
+    color: #ffffff;
+}
+
+/* Specifies the properties for online-reputation-management class. */
+.online-reputation-management {
+    margin-bottom: 20px;
+    padding: 50px;
+    height: 300px;
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+    background-color: #0072bb;
+    color: #ffffff;
+}
+
+/* Specifies the properties for social-media-marketing class. */
+.social-media-marketing {
+    margin-bottom: 20px;
+    padding: 50px;
+    height: 300px;
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+    background-color: #0072bb;
+    color: #ffffff;
+}
+
+/* Specifies the image height in the search-engine-optimization class. */
+.search-engine-optimization img {
+    max-height: 200px;
+}
+
+/* Specifies the image height in the online-reputation-management class. */
+.online-reputation-management img {
+    max-height: 200px;
+}
+
+/* Specifies the img height in the social-media-marketing class. */
+.social-media-marketing img {
+    max-height: 200px;
+}
+
+/* Specifies the properties for h2 heading in search-engine-optimization class. */
+.search-engine-optimization h2 {
+    margin-bottom: 20px;
+    font-size: 36px;
+}
+
+/* Specifies the properties for h2 heading in online-reputation-management class. */
+.online-reputation-management h2 {
+    margin-bottom: 20px;
+    font-size: 36px;
+}
+
+/* Specifies the properties for h2 heading in social-media-marketing class. */
+.social-media-marketing h2 {
+    margin-bottom: 20px;
+    font-size: 36px;
+}
+
+/* Specifies the properties for benefits class. */
+.benefits {
+    margin-right: 20px;
+    padding: 20px;
+    clear: both;
+    float: right;
+    width: 20%;
+    height: 100%;
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+    background-color: #2589bd;
+}
+
+/* Specifies the properties for benefit-lead class. */
+.benefit-lead {
+    margin-bottom: 32px;
+    color: #ffffff;
+}
+
+/* Specifies the properties for benefit-brand class. */
+.benefit-brand {
+    margin-bottom: 32px;
+    color: #ffffff;
+}
+
+/* Specifies the properties for benefit-cost class. */
+.benefit-cost {
+    margin-bottom: 32px;
+    color: #ffffff;
+}
+
+/* Specifies the properties for h3 heading of benefit-lead class. */
+.benefit-lead h3 {
+    margin-bottom: 10px;
+    text-align: center;
+}
+
+/* Specifies the properties for h3 heading of benefit-brand class. */
+.benefit-brand h3 {
+    margin-bottom: 10px;
+    text-align: center;
+}
+
+/* Specifies the properties for h3 heading of benefit-cost class. */
+.benefit-cost h3 {
+    margin-bottom: 10px;
+    text-align: center;
+}
+
+/* Specifies the properties for image in the benefit-lead class. */
+.benefit-lead img {
+    display: block;
+    margin: 10px auto;
+    max-width: 150px;
+}
+
+/* Specifies the properties for image in the benefit-brand class. */
+.benefit-brand img {
+    display: block;
+    margin: 10px auto;
+    max-width: 150px;
+}
+
+/* Specifies the properties for image in the benefit-cost class. */
+.benefit-cost img {
+    display: block;
+    margin: 10px auto;
+    max-width: 150px;
+}
+
+/* Specifies the properties for footer class. */
+.footer {
+    padding: 30px;
+    clear: both;
+    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+    text-align: center;
+}
+
+/* Specifies the heading size for h3 tag in the footer class. */
+.footer h3 {
+    font-size: 20px;
+}
