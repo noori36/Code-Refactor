@@ -13,7 +13,7 @@ Refactor code by following the Scout Rule. Ensured that site meets with the stan
 Improve codebase for long-term sustainability and ensure that webpage functioning correctly. Clean up the CSS to make it more efficient,<br /> consolidating CSS selectors and properties, organize them to follow the semantic structure of the HTML elements, and include comments before each element or section of the page.
 
 ## Tasks completed
-Markup : - Bullet list
+
 - Redundant classes were consolidated <br />
 - HTML elements were replaced with semantic HTML elements <br />
 - Alt text was added to images<br />
@@ -37,12 +37,13 @@ The deployed website linked above was deployed using GitHub Pages.<br />
 
 ## Usage
 Once deployed the application can be viewed in a traditional desktop web browser. It it not yet optimized for smaller screens. <br />
+<br />
 ![Alt text](https://github.com/noori36/Code-Refactor/blob/main/assets/images/Horiseon%20Digital%20Marketing.png?raw=true "Optional Title")
 
 ## References and tutorials utilized
 
-https://www.w3schools.com/css/default.asp
-https://stackoverflow.com/questions/10189356/how-to-add-screenshot-to-readmes-in-github-repository
+https://www.w3schools.com/css/default.asp <br />
+https://stackoverflow.com/questions/10189356/how-to-add-screenshot-to-readmes-in-github-repository <br />
 https://www.markdownguide.org/basic-syntax/
 
 
