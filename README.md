@@ -24,9 +24,9 @@ Refactor code by following the Scout Rule. Ensured that site meets with the stan
 
 ## Links
 
-[The URL of the deployed application.](https://github.com/noori36/Code-Refactor/)
+[The URL of the deployed application.]9https://noori36.github.io/Code-Refactor/)
 
-The URL of the GitHub repository.
+[The URL of the GitHub repository.](https://github.com/noori36/Code-Refactor/)
 
 ## Installation
 
