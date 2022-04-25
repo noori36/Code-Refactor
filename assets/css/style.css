@@ -87,8 +87,9 @@ p {
     margin-left: 20px;
 }
 
-/* Specifies the properties for search-engine-optimization class. */
-.search-engine-optimization {
+/* Specifies the properties for online marketing class which includes Search Engine Optimization , 
+Online Reputation Management, Social Media Marketing */
+.online-marketing {
     margin-bottom: 20px;
     padding: 50px;
     height: 300px;
@@ -97,55 +98,13 @@ p {
     color: #ffffff;
 }
 
-/* Specifies the properties for online-reputation-management class. */
-.online-reputation-management {
-    margin-bottom: 20px;
-    padding: 50px;
-    height: 300px;
-    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
-    background-color: #0072bb;
-    color: #ffffff;
-}
-
-/* Specifies the properties for social-media-marketing class. */
-.social-media-marketing {
-    margin-bottom: 20px;
-    padding: 50px;
-    height: 300px;
-    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
-    background-color: #0072bb;
-    color: #ffffff;
-}
-
-/* Specifies the image height in the search-engine-optimization class. */
-.search-engine-optimization img {
+/* Specifies the image height in the online marketing class. */
+.online-marketing img {
     max-height: 200px;
 }
 
-/* Specifies the image height in the online-reputation-management class. */
-.online-reputation-management img {
-    max-height: 200px;
-}
-
-/* Specifies the img height in the social-media-marketing class. */
-.social-media-marketing img {
-    max-height: 200px;
-}
-
-/* Specifies the properties for h2 heading in search-engine-optimization class. */
-.search-engine-optimization h2 {
-    margin-bottom: 20px;
-    font-size: 36px;
-}
-
-/* Specifies the properties for h2 heading in online-reputation-management class. */
-.online-reputation-management h2 {
-    margin-bottom: 20px;
-    font-size: 36px;
-}
-
-/* Specifies the properties for h2 heading in social-media-marketing class. */
-.social-media-marketing h2 {
+/* Specifies the properties for h2 heading in online marketing class. */
+.online-marketing h2 {
     margin-bottom: 20px;
     font-size: 36px;
 }
@@ -162,58 +121,21 @@ p {
     background-color: #2589bd;
 }
 
-/* Specifies the properties for benefit-lead class. */
-.benefit-lead {
+/* Specifies the properties like margin and color for benefit class. */
+.benefit {
     margin-bottom: 32px;
     color: #ffffff;
 }
 
-/* Specifies the properties for benefit-brand class. */
-.benefit-brand {
-    margin-bottom: 32px;
-    color: #ffffff;
-}
-
-/* Specifies the properties for benefit-cost class. */
-.benefit-cost {
-    margin-bottom: 32px;
-    color: #ffffff;
-}
-
-/* Specifies the properties for h3 heading of benefit-lead class. */
-.benefit-lead h3 {
+/* Specifies the properties like bottom margin and text alignment of h3 heading in benifit class. */
+.benefit h3 {
     margin-bottom: 10px;
     text-align: center;
 }
 
-/* Specifies the properties for h3 heading of benefit-brand class. */
-.benefit-brand h3 {
-    margin-bottom: 10px;
-    text-align: center;
-}
-
-/* Specifies the properties for h3 heading of benefit-cost class. */
-.benefit-cost h3 {
-    margin-bottom: 10px;
-    text-align: center;
-}
-
-/* Specifies the properties for image in the benefit-lead class. */
-.benefit-lead img {
-    display: block;
-    margin: 10px auto;
-    max-width: 150px;
-}
-
-/* Specifies the properties for image in the benefit-brand class. */
-.benefit-brand img {
-    display: block;
-    margin: 10px auto;
-    max-width: 150px;
-}
-
-/* Specifies the properties for image in the benefit-cost class. */
-.benefit-cost img {
+/* Specifies the properties like display (Displays an element as a block element (like <p>). It starts on a new line, and takes up the whole width), 
+margin and maximum width of img in benifit class. */
+.benefit img {
     display: block;
     margin: 10px auto;
     max-width: 150px;
