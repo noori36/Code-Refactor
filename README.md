@@ -9,10 +9,9 @@ created: Apr 7, 2022
 
 ## Description 
 
-Refactor code by following the Scout Rule. Ensured that site meets with the standards of eAccessibility and optimized for search engines. <br />
-Improve codebase for long-term sustainability and ensure that webpage functioning correctly. Clean up the CSS to make it more efficient,<br /> consolidating CSS selectors and properties, organize them to follow the semantic structure of the HTML elements, and include comments before each element or section of the page.
+Refactor code by following the Scout Rule. Ensured that site meets with the standards of eAccessibility and optimized for search engines. Improve codebase for long-term sustainability and ensure that webpage functioning correctly. Clean up the CSS to make it more efficient, consolidating CSS selectors and properties, organize them to follow the semantic structure of the HTML elements, and include comments before each element or section of the page.
 
-## Tasks completed
+## Features/Enhancements
 
 - Redundant classes were consolidated <br />
 - HTML elements were replaced with semantic HTML elements <br />
