@@ -13,7 +13,7 @@ Refactor code by following the Scout Rule. Ensured that site meets with the stan
 
 ## Enhancements / Features
 
-- Redundant classes were consolidated <br />
+- Redundant classes were merged <br />
 - HTML elements were replaced with semantic HTML elements <br />
 - Alt text was added to images<br />
 - Explanatory comments were provided in the HTML document<br />
